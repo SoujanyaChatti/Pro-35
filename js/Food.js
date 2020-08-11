@@ -1,5 +1,5 @@
 class Food{
-    constuctor(){
+    constructor(){
     this.foodstock=null;
  
     this.milkimage=loadImage("images/Milk.png");                                   
